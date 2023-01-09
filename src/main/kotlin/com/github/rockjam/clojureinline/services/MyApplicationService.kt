@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rockjam.clojureinline.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rockjam.clojureinline.MyBundle
 
 class MyApplicationService {
 
